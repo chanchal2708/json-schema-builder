@@ -53,9 +53,12 @@ src/
 git clone https://github.com/chanchal2708/json-schema-builder.git
 cd json-schema-builder
 
-2. Install Dependencies
+### 2. Install Dependencies
+
 npm install
-3. Start the Development Server
+
+### 3. Start the Development Server
+
 npm run dev
 
 
